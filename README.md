@@ -1,6 +1,7 @@
 # Dart - Multipurpose landing page template
 A pure client-side landing page template that includes all the basic components you need to present your company 
 
+![](https://github.com/Katyaaanikitina/dart/blob/c14f24f1608d03a9d41fcb511aa7de04ac94d22b/Dart1.gif)
 ## Features
 * It's a static HTML page, so no hosting needed (just use Github Pages for free). Follow this link - [GitHub Pages](https://pages.github.com/) to know how 
 * Responsive design

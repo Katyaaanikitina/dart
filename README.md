@@ -15,7 +15,7 @@ A pure client-side landing page template that includes all the basic components 
 5.Enjoy your free landing page!
 
 ## Bugs and Issues
-Found a bug or an issue with this template? Please, feel free to contact me.
+Found a bug or an issue with this template? Please, feel free to contact me. You can find my contact info on my page.
 
 ## Known issues (Work in progress)
 This landing page is static, so buttons are not clickable. So currently it can be used only as a layout of your company information. I'm working to resolve this matter 
